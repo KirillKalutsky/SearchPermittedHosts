@@ -1,0 +1,15 @@
+E:\c#\test\SimpleCode\test\test\bin\Debug\net6.0\test.exe
+E:\c#\test\SimpleCode\test\test\bin\Debug\net6.0\test.deps.json
+E:\c#\test\SimpleCode\test\test\bin\Debug\net6.0\test.runtimeconfig.json
+E:\c#\test\SimpleCode\test\test\bin\Debug\net6.0\test.dll
+E:\c#\test\SimpleCode\test\test\bin\Debug\net6.0\test.pdb
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\test.dll
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\refint\test.dll
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\test.pdb
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+E:\c#\test\SimpleCode\test\test\obj\Debug\net6.0\ref\test.dll
